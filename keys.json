@@ -1,0 +1,8 @@
+{
+  "keys": {
+    "VMVIP-2026-ABC123-XYZ789": {
+      "active": true,
+      "expiresAt": "2026-12-31T23:59:59.000Z"
+    }
+  }
+}
